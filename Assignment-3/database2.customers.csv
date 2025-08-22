@@ -1,0 +1,4 @@
+_id,first_name,last_name,email,phone,address,city,country,created_at,updated_at
+68a8aa243b0f59c8806524ef,Kingsley,Donkor,king@gmail.com,0547793444,Fiapre,Sunyani,Ghana,2025-08-22T00:00:00Z,2025-08-22T00:00:00Z
+68a8aa243b0f59c8806524f0,Joseph,Asare,asere@gmail.com,0500000000,Old Tafo,Kumasi,Ghana,2025-08-22T00:00:00Z,2025-08-22T17:37:20.588Z
+68a8aa243b0f59c8806524f1,Benjamin,Mensah,mensah@gmail.com,0554291913,Tema,Accra,Ghana,2025-08-22T00:00:00Z,2025-08-22T00:00:00Z
